@@ -42,44 +42,44 @@ and
 #
 ## THESE ARE SEPERATE CHANGES FROM COMPLETE LOOT OVERHAUL 
 #
-# Changes Are Bound to Change Based on feedback
+# Changes are bound to change based on feedback
 #
 # Change log
 # 1 Ported Shadows Work From BL2 to TPS for certain stuff
-#  Scav Pistol and Scav Assault Rifles Have Less mag size But get buffed in all other aspects. DMG FireRate Reload speed
-#  Removal of Crit penalty on All Assault Rifles
-#  Buffed All torgue barreled Assault Rifles (Ported From Shadow's patch)
-#  Ported Shadows Whisky Tango Foxtrot Changes. (More Explosions/Damage and does not hurt the user.)
+#  Scav Pistol and Scav Assault Rifles have less mag size. But get buffed in all other aspects. DMG FireRate Reload speed
+#  Removal of Crit penalty on all Assault Rifles
+#  Buffed all Torgue Barreled Assault Rifles (Ported From Shadow's patch)
+#  Ported Shadow's Whisky Tango Foxtrot Changes. (More Explosions/Damage and does not hurt the user.)
 #  
-# 2 Made it so you get the FIRST WEAPON SLOT SDU from Moxxi in Concordia (second One if From when finding Felicity where the first one was)
+# 2 Made it so you get the FIRST WEAPON SLOT SDU from Moxxi in Concordia (second one is where you find the first SDU slot)
 # 3 Enabled Fast Travel To EOS
 # 4 Moonstones are now AutopickUp
 # 5 Smasher Now Consumes 1 Ammo per Shot (Made by NikitaZed)
-# 6 Two Scoops has now faster Projectiles and a Lot more dmg +2 projectiles +2magazine Size
-# 7 Buffs CryBaby even Further. Should be about +50% in total from Vannila. Trying to figure Bullet speed on it.
+# 6 Two Scoops have faster projectiles now and a lot more dmg +2 projectiles +2magazine Size
+# 7 Buffs CryBaby even further. Should be about +50% in total from Vannila. Trying to figure bullet speed on it.
 # 8 Buffed Excalibastard Melee DMG to 200% (will Nerf it to 100% if feedback is given to be to OP from my testings it did fine.)
 # 9 Hammer Buster A Better Spingun, A true successor to the original
 # 10 Fatale in all elements
-# 11 Blowfly Spawn in All Elements, Renames it to FruitFly
-# 12 Viral Marketer Spawn in all elements
-# 13 Removes the Parts Lock on the Longnail
-# 14 Reduces the mag size of the IVF cause its too good with double the babies (PRONE TO REVERSION VIA FEEDBACK)
-# 15 Speeds up jack o cannon projectile and gives more projectiles
-# 16 Buffed Hyperion Sniper Rifles FireRate
-# 17 Made Boxxy gun Ricochet More often.
-# 18 Buffed the CyberEagle By 20%
+# 11 Blowfly Spawn in all Elements, renamed it to the FruitFly
+# 12 Viral Marketer can now spawn in all elements.
+# 13 Removed the parts lock on the Longnail.
+# 14 Reduced the magazine size of the IVF,because it was too good with double the babies (PRONE TO REVERSION VIA FEEDBACK)
+# 15 Sped up the Jack O Cannon projectile and gives more projectiles
+# 16 Buffed Hyperion Sniper Rifles FireRate.
+# 17 Made Boxxy gun ricochet more often.
+# 18 Buffed the CyberEagle by 20%.
 #
 # LUNESHINE Changes. 
-# 19 Buffs Serenity Luneshine to Make players feel like Claptrap when having it (its about 96% reduction of O2 rate)
-# 20 Buffs Punisher Luneshine to +20% Critical DMG From 10%
-# 21 Buffs Oxygenator Luneshine to steal 10 O2 per Hit (System Purge Combo for Bee like effect but not quite)
-# 22 Buffs HardenUp Luneshine to 15% Shield Capacity From 3% 
-# 23 Buffs FastLearner Luneshine MAJORLY to 40% per kill from 1-3%. This will help those who want to level up faster on UVHM
+# 19 Buffed the Serenity Luneshine to make players feel like Claptrap when having it equipped. (its about 96% reduction of O2 rate)
+# 20 Buffed the Punisher Luneshine to +20% Critical DMG From 10%.
+# 21 Buffed the Oxygenator Luneshine to steal 10 O2 per hit. (System Purge Combo for Bee like effect but not quite)
+# 22 Buffed the HardenUp Luneshine to 15% Shield Capacity from 3%.
+# 23 Buffed the FastLearner Luneshine MAJORLY to 40% per kill from 1-3%. This will help those who want to level up faster on UVHM
 # 24 Buffs Boominator Luneshine To Actual 10%. Card said 5% but it was actually about 2.8-3% before.
 # 25 Buffs Safeguard Luneshine to 10% Shield Restoration per Kill from 3% 
 # 26 Piercing Rounds are Unchanged yet as it already feels good enough. Might buff it to 50% in the Future.
 # 
-# 27 Fixed Cryo element Maliwan Pistols to Spawn. Basiccaly Those could never spawn Including the Probe. Now they can!
+# 27 Fixed Cryo element Maliwan Pistols to Spawn. Basically those could never spawn, including the Probe. Now they can!
 ####################################################################################################################################
 ####################################################################################################################################
 # Borderlands The Pre-Sequel Loot Changes 
@@ -90,117 +90,117 @@ and
 ## 
 # Will work on claptastic Voyage next
 #
-# It also Makes ALL Unobtainable Unique gear (such as most moxxie weapons,fibber,lady fist to quest rewards from fitting quests 
+# It also makes ALL Unobtainable Unique gear (such as most Moxxi Weapons,Fibber,Lady Fist to quest rewards from fitting quests) 
 # 		
 #		Change Log
 # 1.2.1 Fixed a Bug with Red not dropping his assigned items.
-#       Fixed A bug with Excalibastard Being Nerfed in the critical value. 
-#       Removed Skins From XSTLK23 he should drop eridian Vanquishers more often now.
+#     Fixed A bug with Excalibastard Being Nerfed in the critical value. 
+#     Removed Skins From XSTLK23 he should drop eridian Vanquishers more often now.
 # 1.2 Added Moonstone Auto Pick Up
 #     Changed EOS Fast Travel to be Two Way
 #     Buffed Excalibastard to 200% Mellee Dmg (ITS A FREAKING EXCALIBUR)
 # 1.1 Fixed a bug with badass Torks.
 #     Added Avalance to Iwajira
-#     Fixed Lazlo to actually Drop the Shooterang
-#	    Removed Hail From Iwajira. It can be found on the 5th round of SlaughterDome instead.
+#     Fixed Lazlo to actually drop the Shooterang
+#	 Removed the Hail From Iwajira. It can now be found on the 5th round of SlaughterDome instead.
 ###########Farmables################################################################################################################
 # 1.0
-#Gear				        Enemy
+#Gear			        Enemy
 #
-#Pitchfork	                Flame knuckle
+#Pitchfork	          Flame knuckle
 #Nukem			    	Flame knuckle (unchanged)
-#Min Min Lighter                Deadlift
+#Min Min Lighter         Deadlift
 #Kala 			    	Deadlift
-#Vandergrafen	  	        Deadlift (unchanged)
-#Invader		    	Nel
+#Vandergrafen	  	     Deadlift (unchanged)
+#Invader		     	Nel
 #magma 			    	Nel
-#SkullMasher	  	        Nel (unchanged)
-#Pandemic		    	Badass Kragons
-#Fire Bee		    	Badass Kragons
-#Storm Front	  	        Badass Kragons
-#Four Seasons	  	        Badass Kragons	(unchaged)
+#SkullMasher	  	     Nel (unchanged)
+#Pandemic		    	     Badass Kragons
+#Fire Bee		      	Badass Kragons
+#Storm Front	  	     Badass Kragons
+#Four Seasons	  	     Badass Kragons	(unchaged)
 #Mongol				RoosterBooster
-#Oxidizer		    	RoosterBooster (unchaged)
+#Oxidizer		     	RoosterBooster (unchaged)
 #WTF			      	NotSoCuteBadassTork
-#Flakker		    	NotSoCuteBadassTork (unchanged)
+#Flakker		     	NotSoCuteBadassTork (unchanged)
 #Boomacorn		  	SwagMan-Outcast 
-#Wet week		    	SwagMan-Outcast
-#Ol painfull   		        SwagMan-Outcast
-#Jack o cannon 		        SwagMan-Outcast
-#The Machine		        SwagMan-Outcast		
-#Fabled Tortoise	        Belly
-#Striker			Belly (Unchanged)
-#Badaboom			Red
-#Big Thumpper	                Red
-#Black Snake		        Red (removed From his pool is now mission reward of A new Direction )
-#Rolling Thunder	        Badass Torks
-#Reogenator  		        Badass Torks
+#Wet week		     	SwagMan-Outcast
+#Ol painfull             SwagMan-Outcast
+#Jack o cannon           SwagMan-Outcast
+#The Machine		     SwagMan-Outcast		
+#Fabled Tortoise	     Belly
+#Striker			     Belly (Unchanged)
+#Badaboom			     Red
+#Big Thumpper	          Red
+#Black Snake		     Red (removed From his pool and is now a mission reward for A New Direction )
+#Rolling Thunder	     Badass Torks
+#Reogenator  		     Badass Torks
 #Logans				Badass Torks
-#Bonus Package		        Badass Torks (Unchanged)
-#Bouncing Bazza		        GiantCryoHive
-#Zim				GiantCryoHive (Unchanged)
+#Bonus Package		     Badass Torks (Unchanged)
+#Bouncing Bazza          GiantCryoHive
+#Zim				     GiantCryoHive (Unchanged)
 #The Cradle		  	Boomer
-#KerBoom			Boomer (Unchanged)
-#Nasty Suprise  	        Bosun
-#Cryophobia			Bosun(Unchanged)
-#IVF				Bosun (Unchanged)
-#Sham			      	Felicity
+#KerBoom			     Boomer (Unchanged)
+#Nasty Suprise  	     Bosun
+#Cryophobia			Bosun (Unchanged)
+#IVF				     Bosun (Unchanged)
+#Sham			   	Felicity
 #Quasar			    	Felicity (Unchanged)
-#Hammer Buster 		        RabidAdams
-#Marek's Mouth		        RabidAdams (unchanged)
-#Sledge's Shotty	        Bruce
+#Hammer Buster           RabidAdams
+#Marek's Mouth		     RabidAdams (unchanged)
+#Sledge's Shotty	     Bruce
 #SuperNova		  	Bruce (Unchanged)
 #Maggie				Drogo Bones
 #Fatale				Drogn Bones (Unchanged)
 #88 Fragnum			Meat Head
-#Meat Grinder		        Meat Head (Unchanged)
+#Meat Grinder		     Meat Head (Unchanged)
 #Shredifier			MiniDestroyer
-#Moonlight Saga		        MiniDestroyer (Unchanged)
-#Hellfire			Meg
-#Torrent			Meg (Unchanged)
+#Moonlight Saga          MiniDestroyer (Unchanged)
+#Hellfire			     Meg
+#Torrent			     Meg (Unchanged)
 #Major tom 			PowerSuitNoob
-#Shooting Start		        PowerSuitNoob (Unchanged)
+#Shooting Start          PowerSuitNoob (Unchanged)
 #Cat o Nine			Clap lek
-#3DD1.E				Clap lek (unchanged)
+#3DD1.E				Clap lek (Unchanged)
 #Leech				Eghood
-#BlowFly			Eghood
+#BlowFly			     Eghood
 #Shooterang		  	Lazlo
-#Freezeasy		  	Lazlo	(Unchanged)
+#Freezeasy		  	Lazlo   (Unchanged)
 #Viral Mark		  	Iwajira 
 #Thingy				Iwajira (Unchanged)
-#Hail		    	        Iwajira (Removed)
-#Avalance		    	Iwajira 
+#Hail		    	     Iwajira (Removed)
+#Avalance		    	     Iwajira 
 #
 #Keep in mind that Outcast wont drop anything if you are playing offline or in a pirated version due to 
 #his droppool only being added to him via the Latest hotfix.
-#RK5 LootPool Is Bugged and thus Cannot be used.
+#RK5 LootPool is Bugged and thus Cannot be used.
 #
 ###########Quest Reward Changes#####################################################################################################
 #
 #	Quest Name					           Rewards
 #Wherefore Art thou				    	Contraband Sky Rocket/Perdy Light 
-#A new direction 				       	Black Snake/Boss Nova
-#Wiping Slate					        Smasher	(The BL2 Royalty gun)
-#Space Slam						Fast Talker/Fibber
-#Rough Love						Good Touch/Bad Touch 
-#Nothing is never An option			        Lady Finger/CherAmie 
-#VoiceOver						Bullpap (The BL1 Royalty gun)/Company Man
-#Zen Trap 					        Naught/Deadly bloom
-#Bestest Story Ever Told		  	        Random Legendary Gear Or Gun
+#A new direction 				      Black Snake/Boss Nova
+#Wiping Slate					      Smasher	(The BL2 Royalty gun)
+#Space Slam						 Fast Talker/Fibber 
+#Rough Love						 Good Touch/Bad Touch                                             
+#Nothing is never An option		      Lady Finger/CherAmie 
+#VoiceOver						 Bullpap (The BL1 Royalty gun)/Company Man
+#Zen Trap 					      Naught/Deadly bloom
+#Bestest Story Ever Told		  	      Random Legendary Gear or Gun
 #
 #Slaughter Dome Rounds 1-4 Rewards were changed to Give Moxxi Weapons
 #
 #Round 1							Probe
-#Round 2							CherAmie
-#Round 3							Good Touch/ Bad Touch (That Way you can acquire Both good and bad touch in one playthrough.Rough love have em both too)
+#Round 2							Chère-amie
+#Round 3							Good Touch/ Bad Touch (That Way you can acquire both Good and Bad Touch in one playthrough.The mission Rough Love is where you can also find them)
 #Round 4							Creamer/Heartbreaker
-#Round 5							New* For playtest . Random Moxxi Weapon Reward Or Haymaker.
+#Round 5							New* For playtest . Random Moxxi Weapon Reward or Haymaker.
 #
-#SlaughterDome Round 5   is now Repeatable (Accept instantly after you turn it in else you will have to save and quit for it to be repeatable)
+#SlaughterDome Round 5 is now repeatable (Accept instantly after you turn it in else you will have to save and quit for it to be repeatable)
 #
 #Bestest Story Ever Told Is Now Repeatable (Giving you a reason To go back in Concordia and Back to Eleseer instead of only farming
 # eleser Due to the quest reward changes)
-#This should Also encourage Even Less Grinder Usage for all those who don't like the grinder.
+#This should Also encourage even less Grinder usage for all those who don't like the grinder.
 ####################################################################################################################################
 
 ####################################################################################################################################
@@ -221,19 +221,19 @@ set GD_Cork_Weap_Lasers.Barrel.Laser_Barrel_Hyperion_Excalibastard ExternalAttri
 #
 ###CODE For Quest Rewards
 #
-### A new direction Black Snake and boss Nova
+### A New Direction Black Snake and Boss Nova
 Set GD_Co_Chapter04.M_Co_Chapter04 Reward (ExperienceRewardPercentage=(BaseValueConstant=0.100000,BaseValueAttribute=AttributeDefinition'GD_MissionRewardBalance.XP.XPReward_05_Largest',InitializationDefinition=None,BaseValueScaleConstant=1.000000),BadassRanksReward=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000),CurrencyRewardType=CURRENCY_Credits,CreditRewardMultiplier=(BaseValueConstant=1.000000,BaseValueAttribute=AttributeDefinition'GD_MissionRewardBalance.Cash.CashReward_05_Largest',InitializationDefinition=None,BaseValueScaleConstant=1.000000),OtherCurrencyReward=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000),RewardItems=(WeaponBalanceDefinition'GD_Cypressure_Weapons.A_Weapons_Unique.AR_Bandit_3_BossNova',WeaponBalanceDefinition'GD_Cork_Weap_SMG.A_Weapons_Unique.SMG_Old_Hyperion_BlackSnake'),RewardItemPools=)
 
-### naught to zen trap and deadly bloom  check later
+### Naught to Zen Trap and Deadly Bloom  check later
 set GD_Co_Side_Z8MTRP.M_Z8nTRP Reward (ExperienceRewardPercentage=(BaseValueConstant=0.100000,BaseValueAttribute=AttributeDefinition'GD_MissionRewardBalance.XP.XPReward_03_Medium',InitializationDefinition=None,BaseValueScaleConstant=1.000000),BadassRanksReward=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000),CurrencyRewardType=CURRENCY_Credits,CreditRewardMultiplier=(BaseValueConstant=1.000000,BaseValueAttribute=AttributeDefinition'GD_MissionRewardBalance.Cash.CashReward_02_Small',InitializationDefinition=None,BaseValueScaleConstant=1.000000),OtherCurrencyReward=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000),RewardItems=(InventoryBalanceDefinition'GD_Ma_Shields.A_Item_Unique.ItemGrade_Gear_Shield_Naught',InventoryBalanceDefinition'GD_ItemGrades.Shields.ItemGrade_Gear_Shield_Nova_Explosive_DeadlyBloom'),RewardItemPools=)
 
-### Fast Talker And Fibber on Space Slam 
+### Fast Talker and Fibber on Space Slam 
 set GD_Co_SpaceSlam.M_SpaceSlam Reward (ExperienceRewardPercentage=(BaseValueConstant=0.100000,BaseValueAttribute=AttributeDefinition'GD_MissionRewardBalance.XP.XPReward_03_Medium',InitializationDefinition=None,BaseValueScaleConstant=1.000000),BadassRanksReward=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000),CurrencyRewardType=CURRENCY_Credits,CreditRewardMultiplier=(BaseValueConstant=1.000000,BaseValueAttribute=AttributeDefinition'GD_MissionRewardBalance.Cash.CashReward_02_Small',InitializationDefinition=None,BaseValueScaleConstant=1.000000),OtherCurrencyReward=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000),RewardItems=(WeaponBalanceDefinition'GD_Cypressure_Weapons.A_Weapons_Unique.SMG_Bandit_3_FastTalker',WeaponBalanceDefinition'GD_Cork_Weap_Pistol.A_Weapons_Unique.Pistol_Hyperion_3_Fibber'),RewardItemPools=)
 
-### Good/Bad Touch From Rough Love WORKS
+### Good/Bad Touch from Rough Love WORKS
 set GD_Co_RoughLove.M_Co_RoughLove Reward (ExperienceRewardPercentage=(BaseValueConstant=0.100000,BaseValueAttribute=AttributeDefinition'GD_MissionRewardBalance.XP.XPReward_03_Medium',InitializationDefinition=None,BaseValueScaleConstant=1.000000),BadassRanksReward=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000),CurrencyRewardType=CURRENCY_Credits,CreditRewardMultiplier=(BaseValueConstant=1.000000,BaseValueAttribute=AttributeDefinition'GD_MissionRewardBalance.Cash.CashReward_03_Medium',InitializationDefinition=None,BaseValueScaleConstant=1.000000),OtherCurrencyReward=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000),RewardItems=(WeaponBalanceDefinition'GD_Cork_Weap_SMG.A_Weapons_Unique.SMG_Maliwan_3_GoodTouch',WeaponBalanceDefinition'GD_Cork_Weap_SMG.A_Weapons_Unique.SMG_Maliwan_3_BadTouch'),RewardItemPools=())
 
-### Contraband/Perdy Light Wherefore Art thou WORKS
+### Contraband/Perdy Light Wherefore Art Thou WORKS
 set GD_Co_WhereforeArtThou.M_Co_WhereforeArtThou Reward (ExperienceRewardPercentage=(BaseValueConstant=0.100000,BaseValueAttribute=AttributeDefinition'GD_MissionRewardBalance.XP.XPReward_03_Medium',InitializationDefinition=None,BaseValueScaleConstant=1.000000),BadassRanksReward=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000),CurrencyRewardType=CURRENCY_Credits,CreditRewardMultiplier=(BaseValueConstant=1.000000,BaseValueAttribute=AttributeDefinition'GD_MissionRewardBalance.Cash.CashReward_02_Small',InitializationDefinition=None,BaseValueScaleConstant=1.000000),OtherCurrencyReward=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000),RewardItems=(InventoryBalanceDefinition'GD_Pet_MoonItems.A_Item_Unique.A_AntiAir_PerdyLights',InventoryBalanceDefinition'GD_GrenadeMods.A_Item_Custom.GM_SkyRocket'),RewardItemPools=)
 
 ### Smasher Wiping Slate 
@@ -242,7 +242,7 @@ set GD_Co_WipingSlate.M_WipingSlate Reward (ExperienceRewardPercentage=(BaseValu
 ### Bulpap/Company Man VoiceOver 
 set GD_Co_VoiceOver.M_VoiceOver Reward (ExperienceRewardPercentage=(BaseValueConstant=0.100000,BaseValueAttribute=AttributeDefinition'GD_MissionRewardBalance.XP.XPReward_02_Small',InitializationDefinition=None,BaseValueScaleConstant=1.000000),BadassRanksReward=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000),CurrencyRewardType=CURRENCY_Eridium,CreditRewardMultiplier=(BaseValueConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000),OtherCurrencyReward=(BaseValueConstant=5.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000),RewardItems=(WeaponBalanceDefinition'GD_Cork_Weap_Shotgun.A_Weapons_Unique.SG_Old_Hyperion_3_Bullpup',WeaponBalanceDefinition'GD_Cypressure_Weapons.A_Weapons_Unique.SG_Hyperion_3_CompanyMan'),RewardItemPools=) 
 
-### Lady Finger/CherAmie From Nothing is never an option
+### Lady Fist/Chère-amie from Nothing Is Never an Option
 set GD_Co_YouAskHowHigh.M_Co_YouAskHowHigh Reward (ExperienceRewardPercentage=(BaseValueConstant=0.100000,BaseValueAttribute=AttributeDefinition'GD_MissionRewardBalance.XP.XPReward_03_Medium',InitializationDefinition=None,BaseValueScaleConstant=1.000000),BadassRanksReward=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000),CurrencyRewardType=CURRENCY_Credits,CreditRewardMultiplier=(BaseValueConstant=1.000000,BaseValueAttribute=AttributeDefinition'GD_MissionRewardBalance.Cash.CashReward_03_Medium',InitializationDefinition=None,BaseValueScaleConstant=1.000000),OtherCurrencyReward=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000),RewardItems=(WeaponBalanceDefinition'GD_Cork_Weap_Pistol.A_Weapons_Unique.Pistol_Hyperion_3_LadyFist',WeaponBalanceDefinition'GD_Cork_Weap_SniperRifles.A_Weapons_Unique.Sniper_Maliwan_3_ChereAmie'),RewardItemPools=())
 
 set GD_CO_CorkRaid.M_CorkRaid brepeatable true
@@ -286,21 +286,21 @@ set GD_Itempools.Runnables.Pool_Deadlift_Rare BalancedItems ((ItmPoolDefinition=
 ###clap lek Eddie And Cat O Nine
 set GD_Itempools.Runnables.Pool_D8L3K BalancedItems ((ItmPoolDefinition=None,InvBalanceDefinition=InventoryBalanceDefinition'GD_MoonItems.A_Item_Unique.A_Astrotech',Probability=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=AttributeInitializationDefinition'GD_Balance.Weighting.Weight_1_Common',BaseValueScaleConstant=1.000000),bDropOnDeath=True),(ItmPoolDefinition=None,InvBalanceDefinition=WeaponBalanceDefinition'GD_Cork_Weap_Lasers.A_Weapons_Legendary.Laser_Dahl_5_Ricochet',Probability=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=AttributeInitializationDefinition'GD_Balance.Weighting.Weight_1_Common',BaseValueScaleConstant=1.000000),bDropOnDeath=True))
 
-### powersuit noob major Tom and Shooting star
+### Powersuit Noob-Major Tom and Shooting star
 set GD_Itempools.Runnables.Pool_RedShirt BalancedItems ((ItmPoolDefinition=None,InvBalanceDefinition=InventoryBalanceDefinition'GD_ItemGrades.Shields.ItemGrade_Gear_Shield_Roid_ShootingStar',Probability=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=AttributeInitializationDefinition'GD_Balance.Weighting.Weight_1_Common',BaseValueScaleConstant=1.000000),bDropOnDeath=True),(ItmPoolDefinition=None,InvBalanceDefinition=WeaponBalanceDefinition'gd_cork_weap_assaultrifle.A_Weapons_Legendary.AR_Dahl_5_MajorTom',Probability=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=AttributeInitializationDefinition'GD_Balance.Weighting.Weight_1_Common',BaseValueScaleConstant=1.000000),bDropOnDeath=True))
 ###Set GD_Itempools.Runnables.Pool_RedShirt Quantity (BaseValueConstant=2.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=2.000000)
 
-###Iwajira + Viral mark + Avalance
+###Iwajira + Viral Marketer + Avalance
 set GD_Itempools.Runnables.Pool_Rockzilla BalancedItems ((ItmPoolDefinition=None,InvBalanceDefinition=WeaponBalanceDefinition'GD_Cork_Weap_Launchers.A_Weapons_Legendary.RL_Bandit_5_Thingy',Probability=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=AttributeInitializationDefinition'GD_Balance.Weighting.Weight_1_Common',BaseValueScaleConstant=1.000000),bDropOnDeath=True),(ItmPoolDefinition=None,InvBalanceDefinition=WeaponBalanceDefinition'GD_Cork_Weap_Shotgun.A_Weapons_Legendary.SG_Hyperion_5_ConferenceCall',Probability=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=AttributeInitializationDefinition'GD_Balance.Weighting.Weight_1_Common',BaseValueScaleConstant=1.000000),bDropOnDeath=True),(ItmPoolDefinition=None,InvBalanceDefinition=InventoryBalanceDefinition'GD_ItemGrades.Shields.ItemGrade_Gear_Shield_Roid_Avalanche',Probability=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=AttributeInitializationDefinition'GD_Balance.Weighting.Weight_1_Common',BaseValueScaleConstant=1.000000),bDropOnDeath=True))
 
-###Badass Kragons # All Vladof nades
+###Badass Kragons # All Vladof Nades
 set GD_Itempools.Runnables.Pool_ElementalSpitterBadass BalancedItems ((ItmPoolDefinition=None,InvBalanceDefinition=InventoryBalanceDefinition'GD_GrenadeMods.A_Item_Legendary.GM_FourSeasons',Probability=(BaseValueConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000),bDropOnDeath=True),(ItmPoolDefinition=None,InvBalanceDefinition=InventoryBalanceDefinition'GD_GrenadeMods.A_Item_Legendary.GM_FireBee',Probability=(BaseValueConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000),bDropOnDeath=True),(ItmPoolDefinition=None,InvBalanceDefinition=InventoryBalanceDefinition'GD_GrenadeMods.A_Item_Legendary.GM_Pandemic',Probability=(BaseValueConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000),bDropOnDeath=True),(ItmPoolDefinition=None,InvBalanceDefinition=InventoryBalanceDefinition'GD_GrenadeMods.A_Item_Legendary.GM_StormFront',Probability=(BaseValueConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000),bDropOnDeath=True))
 
 ###Badass torks Reogenator + BP + Logans + Rolling Thunder Check drops###########################
 set GD_Itempools.Runnables.Pool_BadassTork BalancedItems ((ItmPoolDefinition=None,InvBalanceDefinition=InventoryBalanceDefinition'GD_Cork_GrenadeMods.A_Item_Legendary.GM_BonusPackage',Probability=(BaseValueConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000),bDropOnDeath=True),(ItmPoolDefinition=None,InvBalanceDefinition=InventoryBalanceDefinition'GD_ItemGrades.Shields.ItemGrade_Gear_Shield_Chimera_05_Legendary',Probability=(BaseValueConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000),bDropOnDeath=True),(ItmPoolDefinition=None,InvBalanceDefinition=WeaponBalanceDefinition'GD_Weap_Pistol.A_Weapons_Legendary.Pistol_Hyperion_5_LogansGun',Probability=(BaseValueConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000),bDropOnDeath=True),(ItmPoolDefinition=None,InvBalanceDefinition=InventoryBalanceDefinition'GD_GrenadeMods.A_Item_Legendary.GM_RollingThunder',Probability=(BaseValueConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000),bDropOnDeath=True)
 
 
-###DrongoBones BiTCH and Maggie
+###DrongoBones Bitch and Maggie
 set GD_Itempools.Runnables.Pool_DrongoBones BalancedItems ((ItmPoolDefinition=None,InvBalanceDefinition=WeaponBalanceDefinition'GD_Cork_Weap_SMG.A_Weapons_Legendary.SMG_Hyperion_5_Bitch',Probability=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=AttributeInitializationDefinition'GD_Balance.Weighting.Weight_1_Common',BaseValueScaleConstant=1.000000),bDropOnDeath=True),(ItmPoolDefinition=None,InvBalanceDefinition=WeaponBalanceDefinition'GD_Cork_Weap_Pistol.A_Weapons_Legendary.Pistol_Jakobs_5_Maggie',Probability=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=AttributeInitializationDefinition'GD_Balance.Weighting.Weight_1_Common',BaseValueScaleConstant=1.000000),bDropOnDeath=True))
 
 
@@ -310,10 +310,10 @@ set GD_Itempools.Runnables.Pool_MeatHead BalancedItems ((ItmPoolDefinition=None,
 ###Eghood BlowFly And leech
 set GD_Itempools.Runnables.Pool_Eghood BalancedItems ((ItmPoolDefinition=None,InvBalanceDefinition=WeaponBalanceDefinition'GD_Cork_Weap_Pistol.A_Weapons_Legendary.Pistol_Dahl_5_Blowfly',Probability=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=AttributeInitializationDefinition'GD_Balance.Weighting.Weight_1_Common',BaseValueScaleConstant=1.000000),bDropOnDeath=True),(ItmPoolDefinition=None,InvBalanceDefinition=InventoryBalanceDefinition'GD_GrenadeMods.A_Item_Legendary.GM_Leech',Probability=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=AttributeInitializationDefinition'GD_Balance.Weighting.Weight_1_Common',BaseValueScaleConstant=1.000000),bDropOnDeath=True))
 
-###boomer Kerboom and Cradle (ADD BABY BOOMER prolly)
+###boomer Kerboom and Cradle (Probably gonna add the Baby Boomer)
 set GD_Itempools.Runnables.Pool_Boomer BalancedItems ((ItmPoolDefinition=None,InvBalanceDefinition=WeaponBalanceDefinition'gd_cork_weap_assaultrifle.A_Weapons_Legendary.AR_Torgue_5_KerBoom',Probability=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=AttributeInitializationDefinition'GD_Balance.Weighting.Weight_1_Common',BaseValueScaleConstant=1.000000),bDropOnDeath=True),(ItmPoolDefinition=None,InvBalanceDefinition=InventoryBalanceDefinition'GD_ItemGrades.Shields.ItemGrade_Gear_Shield_Standard_05_Legendary',Probability=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=AttributeInitializationDefinition'GD_Balance.Weighting.Weight_1_Common',BaseValueScaleConstant=1.000000),bDropOnDeath=True))
 
-### Bosun. Has two allready IVF and Cryophobia Added nasty Suprise
+### Bosun. Has two already IVF and Cryophobia added the Nasty Suprise
 set GD_Itempools.Runnables.Pool_Bosun BalancedItems ((ItmPoolDefinition=None,InvBalanceDefinition=WeaponBalanceDefinition'GD_Cork_Weap_Launchers.A_Weapons_Legendary.RL_Maliwan_5_Cryophobia',Probability=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=AttributeInitializationDefinition'GD_Balance.Weighting.Weight_1_Common',BaseValueScaleConstant=1.000000),bDropOnDeath=True),(ItmPoolDefinition=None,InvBalanceDefinition=WeaponBalanceDefinition'GD_Cork_Weap_SMG.A_Weapons_Legendary.SMG_Tediore_5_IVF',Probability=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=AttributeInitializationDefinition'GD_Balance.Weighting.Weight_1_Common',BaseValueScaleConstant=1.000000),bDropOnDeath=True),(ItmPoolDefinition=None,InvBalanceDefinition=InventoryBalanceDefinition'GD_GrenadeMods.A_Item_Legendary.GM_NastySurprise',Probability=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=AttributeInitializationDefinition'GD_Balance.Weighting.Weight_1_Common',BaseValueScaleConstant=1.000000),bDropOnDeath=True))
 
 ### BRUCE SuperNova AND Sledges Shotgun
@@ -377,7 +377,7 @@ set gd_cork_weap_assaultrifle.Barrel.AR_Barrel_Dahl_HammerBreaker StartingSpinUp
 ***Reduces the shot cost of the Smasher to one, making it less annoying to use at low levels with less ammo***
 set GD_Cork_Weap_Pistol.Barrel.Pistol_Barrel_Jakobs_Smasher WeaponAttributeEffects ((AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponShotCost',ModifierType=MT_PostAdd,BaseModifierValue=(BaseValueConstant=-2.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponDamage',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.000000,BaseValueAttribute=AttributeDefinition'D_Attributes.WeaponManufacturer.Weapon_Is_Jakobs',InitializationDefinition=None,BaseValueScaleConstant=-5.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponPerShotAccuracyImpulse',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=0.000000,BaseValueAttribute=AttributeDefinition'D_Attributes.WeaponManufacturer.Weapon_Is_Jakobs',InitializationDefinition=None,BaseValueScaleConstant=-0.200000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponSpread',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=0.000000,BaseValueAttribute=AttributeDefinition'D_Attributes.WeaponManufacturer.Weapon_Is_Jakobs',InitializationDefinition=None,BaseValueScaleConstant=2.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponProjectilesPerShot',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=6.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponShotCost',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=2.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)))
 
-***Speeds up two scoops projectile, adds another shot to the mag, and buffs damage***
+***Speeds up the Two Scoops projectile, adds another shot to the mag, and buffs damage***
 
 set GD_Cork_Weap_Shotgun.Barrel.SG_Barrel_Jakobs_TooScoops WeaponAttributeEffects ((AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponDamage',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=1.700000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponShotCost',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponProjectilesPerShot',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=-1000.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponProjectilesPerShot',ModifierType=MT_PostAdd,BaseModifierValue=(BaseValueConstant=4.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponPerShotAccuracyImpulse',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.000000,BaseValueAttribute=AttributeDefinition'D_Attributes.WeaponManufacturer.Weapon_Is_Jakobs',InitializationDefinition=None,BaseValueScaleConstant=-0.150000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponSpread',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.000000,BaseValueAttribute=AttributeDefinition'D_Attributes.WeaponManufacturer.Weapon_Is_Jakobs',InitializationDefinition=None,BaseValueScaleConstant=-0.150000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponClipSize',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponProjectileSpeedMultiplier',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=7.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)))
 
@@ -421,7 +421,7 @@ set GD_Cork_HeliosFoothold_Plot.M_Cork_HeliosFoothold Reward (ExperienceRewardPe
 ### End of SDU Fix
 
 
-### Cyber eagle About 20% more dmg Rest of the stat unchanged
+### Cyber Eagle does 20% more damage. Rest of the stats are unchanged
 set GD_Cork_Weap_Pistol.Barrel.Pistol_Barrel_Jakobs_CyberColt WeaponAttributeEffects ((AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponDamage',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.000000,BaseValueAttribute=AttributeDefinition'D_Attributes.WeaponManufacturer.Weapon_Is_Jakobs',InitializationDefinition=None,BaseValueScaleConstant=0.500000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponPerShotAccuracyImpulse',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=0.000000,BaseValueAttribute=AttributeDefinition'D_Attributes.WeaponManufacturer.Weapon_Is_Jakobs',InitializationDefinition=None,BaseValueScaleConstant=-3.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponSpread',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=0.000000,BaseValueAttribute=AttributeDefinition'D_Attributes.WeaponManufacturer.Weapon_Is_Jakobs',InitializationDefinition=None,BaseValueScaleConstant=-3.000000)))
 ### Crybaby DMG Buff. With the Bandit assault rifle buff this went up By 50%. Trying to make it have faster projectile now. 
 set GD_Petunia_Weapons.AssaultRifles.AR_Barrel_CryBaby_Default AttributeSlotUpgrades ((SlotName="WeaponSpread",GradeIncrease=-3,bActivateSlot=True),(SlotName="AccuracyMin",GradeIncrease=-3,bActivateSlot=True),(SlotName="WeaponDamage",GradeIncrease=4,bActivateSlot=True),(SlotName="WeaponFireRate",GradeIncrease=-5,bActivateSlot=True))
@@ -462,7 +462,7 @@ set GD_Weap_AssaultRifle.A_Weapons.WT_Bandit_AssaultRifle AttributeSlotEffects (
 ###Buffs Hyperion Sniper Rifles FireRate 
 set GD_Weap_SniperRifles.A_Weapons.WeaponType_Hyperion_Sniper firerate 0.5
 
-###Bandit Pistols Buffs. Nerfs Magazine Buffs FireRate Reload Speed And DMG
+###Bandit Pistols Buffs. Nerfs Magazine Buffs FireRate, Reload Speed, and DMG
 set GD_Weap_Pistol.A_Weapons.WeaponType_Bandit_Pistol ClipSize 32
 
 set GD_Weap_Pistol.A_Weapons.WeaponType_Bandit_Pistol ReloadTime 2.500000
@@ -556,7 +556,7 @@ set GD_Weap_Pistol.A_Weapons.Pistol_Maliwan_4_VeryRare:WeaponPartListCollectionD
 ####################################################################################################################################
 ####################################################################################################################################
 
-***Turns Sledges Shotgun into the Roadrunner***
+***Turns Sledge's Shotgun into the Roadrunner***
 ***Credit to nikitaZed***
 set GD_Cork_Weap_Shotgun.Barrel.SG_Barrel_Jakobs_Sledges WeaponAttributeEffects ((AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponDamage',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=-1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify'D_Attributes.WeaponAutomaticBurstCount',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleCOnstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponFireInterval',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=-15.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponProjectilesPerShot',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=5.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponPerShotAccuracyImpulse',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=-7.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponClipSize',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.750000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponSpread',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=-5.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)))
 
@@ -584,11 +584,11 @@ set GD_Cork_Weap_Shotgun.Name.Title_Jakobs.Title_Legendary_Striker:AttributePres
 ####################################################################################################################################
 ####################################################################################################################################
 
-***Changes the 4 random materials for supernova to always be the Singularity material, might be tweaked later if a better material is found***
+***Changes the 4 random materials for Supernova to always be the Singularity material, might be tweaked later if a better material is found***
 set GD_Shields.A_Item.Shield_Nova_Fire_Supernova MaterialParts ItemPartListDefinition'GD_Shields.Material.PartsList_Materials_Nova_Singularity'
 
 
-***Fixes so Hyperion Old weapons get matching grip bonuses, before they didn't***
+***Fixes so that Hyperion Old Weapons get matching grip bonuses, before they didn't***
 set GD_Weap_Pistol.Grip.Pistol_Grip_Hyperion WeaponAttributeEffects ((AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponReloadSpeed',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.000000,BaseValueAttribute=AttributeDefinition'D_Attributes.WeaponManufacturer.Weapon_Is_Hyperion',InitializationDefinition=None,BaseValueScaleConstant=-0.300000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponClipSize',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.000000,BaseValueAttribute=AttributeDefinition'D_Attributes.WeaponManufacturer.Weapon_Is_Hyperion',InitializationDefinition=None,BaseValueScaleConstant=3.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponReloadSpeed',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.000000,BaseValueAttribute=AttributeDefinition'D_Attributes.WeaponManufacturer.Weapon_Is_Hyperion_Old',InitializationDefinition=None,BaseValueScaleConstant=-0.300000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponClipSize',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.000000,BaseValueAttribute=AttributeDefinition'D_Attributes.WeaponManufacturer.Weapon_Is_Hyperion_Old',InitializationDefinition=None,BaseValueScaleConstant=3.000000)))
 set GD_Weap_SMG.Grip.SMG_Grip_Hyperion WeaponAttributeEffects ((AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponReloadSpeed',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.000000,BaseValueAttribute=AttributeDefinition'D_Attributes.WeaponManufacturer.Weapon_Is_Hyperion',InitializationDefinition=None,BaseValueScaleConstant=-0.300000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponClipSize',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.000000,BaseValueAttribute=AttributeDefinition'D_Attributes.WeaponManufacturer.Weapon_Is_Hyperion',InitializationDefinition=None,BaseValueScaleConstant=3.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponReloadSpeed',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.000000,BaseValueAttribute=AttributeDefinition'D_Attributes.WeaponManufacturer.Weapon_Is_Hyperion_Old',InitializationDefinition=None,BaseValueScaleConstant=-0.300000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponClipSize',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.000000,BaseValueAttribute=AttributeDefinition'D_Attributes.WeaponManufacturer.Weapon_Is_Hyperion_Old',InitializationDefinition=None,BaseValueScaleConstant=3.000000)))
 set GD_Weap_SniperRifles.Grip.SR_Grip_Hyperion WeaponAttributeEffects ((AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponReloadSpeed',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.000000,BaseValueAttribute=AttributeDefinition'D_Attributes.WeaponManufacturer.Weapon_Is_Hyperion',InitializationDefinition=None,BaseValueScaleConstant=-0.300000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponClipSize',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.000000,BaseValueAttribute=AttributeDefinition'D_Attributes.WeaponManufacturer.Weapon_Is_Hyperion',InitializationDefinition=None,BaseValueScaleConstant=3.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponReloadSpeed',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.000000,BaseValueAttribute=AttributeDefinition'D_Attributes.WeaponManufacturer.Weapon_Is_Hyperion_Old',InitializationDefinition=None,BaseValueScaleConstant=-0.300000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponClipSize',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.000000,BaseValueAttribute=AttributeDefinition'D_Attributes.WeaponManufacturer.Weapon_Is_Hyperion_Old',InitializationDefinition=None,BaseValueScaleConstant=3.000000)))
